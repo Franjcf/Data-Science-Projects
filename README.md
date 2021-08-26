@@ -1,2 +1,2 @@
-# data_science_projects
+# Data_Science Projects
 A sample of some of data science projects I have worked on 
