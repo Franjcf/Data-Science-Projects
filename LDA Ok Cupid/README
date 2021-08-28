@@ -1,0 +1,9 @@
+READ ME
+
+The attached "Script.py" script should be run within the "Data" directory (and all the files within it). This directory contains text files with the LDA results for different values of k (number of groups). Otherwise the code will take too long to run. 
+
+If the code is ran within the "Data" directory, it should not take longer than 2 minutes to run. the profile.csv file should also be included in this directory. 
+
+The output of the script file provides a lot of results regarding the group sorting of several different trials and different values of k. However, if you wish to see the exact resulting graphs and tables (as shown in the report), you may want to run it in a jupyter notebook. 
+
+A section of the code was modified from the J. Lu reference included in the manuscript references.

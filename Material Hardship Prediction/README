@@ -1,0 +1,14 @@
+READ ME
+
+The attached "Script.py" script should be run within the "Data" directory (and all the files within it). This directory contains text files with the most representative feature obtained from feature selection as explained in the report. 
+
+The data was preprocessed with a modification of the provided "missing data" in addition to the code in "Script.py".
+
+The code does take a while to run (even with the most computational intensive steps commented out), so dont worry if it take some time. (3 min approx)
+
+The output of the script file provides the evaluation matrices of many different trials and classifiers for a given set of initial conditions specified at the beginning:
+
+outcome="desiredOutcome (gpa, eviction,..ext)
+feautureData = "choose from the different possibilities for pre-proccesed data (YesNoData (boolean for: was a question answered?], only boolean features, continuous data, numericData (boolean+continious), and MedianData. 
+
+I did not do a lot of functions in this script, which increased the length of the code. However, the code comments should make everything clear. 
