@@ -27,7 +27,7 @@ If you are interested, you can find the complete academic manunscript and traine
 
 **Skills**: Python, Scikit-learn, Pandas, Numpy, Neural Networks, Decision Tree Clasifiers, Classification, Regression. 
 
-**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_analysis/clogging_analysis.ipynb
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb
 
 .. figure:: /images/clogging_graph_classification.png
     :align: right
