@@ -33,5 +33,10 @@ If you are interested, you can find the complete academic manunscript and traine
     :align: right
     :alt: alternate text
     :figclass: align-right
+    
+.. figure:: /images/clogging_extent.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
 
 
