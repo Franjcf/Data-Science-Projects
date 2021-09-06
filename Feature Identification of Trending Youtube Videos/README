@@ -1,9 +1,0 @@
-READ ME
-
-The attached "final.py" script should be run within the "Data" directory (and all the files within it). This directory contains text files with the LDA and random forest results for different countries (these are commented out). Otherwise the code will take too long to run. However, you can create these files from scratch by uncommenting the "LDA" functions in the code. 
-
-If the code is ran within the "Data" directory, it should not take longer than 2 minutes to run. the country*Videos.csv file obtained from 'https://www.kaggle.com/datasnaek/youtube-new' should also be included in this directory. 
-
-The output of the script file provides a lot of results regarding the group sorting of several different trials and the results of different classifiers. However, if you wish to see the exact resulting graphs and tables (as shown in the report), you may want to run it in a Jupiter notebook. 
-
-A section of the code was modified from the J. Lu reference included in the manuscript references. Other code sections were also obtained from previously submitted homeworks. A small omit of lines of code were modified from 'https://www.kaggle.com/ammar111/youtube-trending-videos-analysis'. 
