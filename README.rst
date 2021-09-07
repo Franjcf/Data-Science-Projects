@@ -4,11 +4,11 @@ Data Science Projects
 
 This directory contains a representative sample of some of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contentents (and the linked subdirectory) for a quick explanation of each project and the relevant skills used. 
 
+.. contents::
+
 This repository was created by Francisco J. Carrillo
 
 ----------------------------------------------------------------------------
-
-.. contents::
 
 ################################################################################
 General Information
@@ -16,6 +16,8 @@ General Information
 
 The code presented here is formated to be displayed as a jupyter notebook using Python 3.8, scikit-learn 0.24.2, and TensorFlow 2.4.1.
 If you want to run this code on your own please check that you are running the correct version.
+
+----------------------------------------------------------------------------
 
 ################################################################################
 Stochastic Clogging Prediction Analysis
@@ -39,6 +41,8 @@ If you are interested, you can find the complete academic manunscript and traine
     :alt: alternate text
     :figclass: align-right
     
+----------------------------------------------------------------------------
+    
 ################################################################################
 Ethereum Price Prediction Using LSTMs
 ################################################################################
@@ -53,6 +57,8 @@ Ethereum Price Prediction Using LSTMs
     :align: right
     :alt: alternate text
     :figclass: align-right
+    
+----------------------------------------------------------------------------
 
 ##################################################
 Latent Feature Analysis of "OkCupid" User Profiles
@@ -71,6 +77,8 @@ If you are interested, you can find a complete report of all the findings within
     :alt: alternate text
     :figclass: align-right
     
+----------------------------------------------------------------------------
+    
 ################################################################################
 Sentiment Analysis of Amazon Customer Reviews
 ################################################################################
@@ -88,3 +96,4 @@ If you are interested, you can find a complete report of all the findings within
     :alt: alternate text
     :figclass: align-right
     
+----------------------------------------------------------------------------
