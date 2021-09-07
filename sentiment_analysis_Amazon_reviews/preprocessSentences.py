@@ -12,6 +12,8 @@ import time
 import os
 import csv
 
+#code modified from Princeton COS424 assignment
+
 chars = ['{','}','#','%','&','\(','\)','\[','\]','<','>',',', '!', '.', ';', 
 '?', '*', '\\', '\/', '~', '_','|','=','+','^',':','\"','\'','@','-']
 
