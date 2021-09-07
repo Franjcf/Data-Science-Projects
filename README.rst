@@ -97,3 +97,20 @@ If you are interested, you can find a complete report of all the findings within
     :figclass: align-right
     
 ----------------------------------------------------------------------------
+
+################################################################################
+Unconstrained Optimization Using Gradient Descent
+################################################################################
+
+**Summary**: In this mini-project I code gradient decesnt from scratch to solve linear regression and ridge regularization problems. These particular problems were chosen becauese their analytical solutions are well-known. Furthermore I investigate how the gradient step size affects the rate of convergence of the underlying optimization problem. I then procced by calculating the largest and smallest eigenvalues of the second derivative of objective function in order to set optimal step size and to find the lower bound the rate of convergence. Finally I investigate how the regularization term "lambda" affects said convergence rate. 
+
+**Skills**: Vector Calculus, Linear Algebra, Optimization, Gradient Decent, Python, Ridge and Linear Regression
+
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_Amazon_reviews/Sentiment%20Analysis.ipynb
+
+.. figure:: /images/optimal_steps_gradient_decent.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+    
+----------------------------------------------------------------------------
