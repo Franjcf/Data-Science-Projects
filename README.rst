@@ -25,7 +25,7 @@ Stochastic Clogging Prediction Analysis
 
 If you are interested, you can find the complete academic manunscript and trained joblib models within the associated directory.
 
-**Skills**: Python, Scikit-learn, Pandas, Numpy, Neural Networks, Decision Tree Clasifiers, Classification, Regression. 
+**Skills**: Python, C++, Scikit-learn, Pandas, Numpy, Neural Networks, Decision Tree Clasifiers, Classification, Regression. 
 
 **Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb
 
@@ -33,5 +33,40 @@ If you are interested, you can find the complete academic manunscript and traine
     :align: right
     :alt: alternate text
     :figclass: align-right
+    
+.. figure:: /images/clogging_extent.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+    
+################################################################################
+Ethereum Price Prediction Using LSTMs
+################################################################################
 
+**Summary**: Ethereum is a blockchain-based network used for the creation and execution of "smart contracts". These special contracts can be used for a wide range of applications:  from confirming basic cryptocurrency transactions (lending, payments, ext...), the creation on "Non-Fungible Tokens", to the implementation of Decentrilized Finance networks. Unfortunately, this network is mostly known for the ample speculation related to its native cryptocurrency "Ether". This has led to wide swings in its price and high volatility. In this project we use Long short-term memory (LSTM) Recurrent Neural Networks (RNN) to try and predict the price of Ether as a function of previous prices and sentiment analysis based on crowd sentiment on "Reddit" (a social media platform). The use of LSTM's allows for the neural network to maintain a "memory" of relevant past events in an effort to increase prediction accuracy. 
 
+**Skills**: TensorFlow, Web scraping API calls, OOP, Reccurent Neural Networks, LSTM, Time-series prediction 
+
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/Ethereum_price_prediction/ETH_prediction.ipynb
+
+.. figure:: /images/ETH_prediction.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+
+##################################################
+Latent Feature Analysis of "OkCupid" User Profiles
+##################################################
+
+**Summary**: The study and identification of the hidden (i.e. latent) features on data sets has far-reaching implications in the fields of data science. Potential (and current) applications of latent feature analysis includes the development of search engines, the creation of stock trading algorithms, population analysis, and the sorting of people into groups (for commercial, dating, and/or policy purposes). In this project I used ``One-Hot" encoding, natural language processing (``Bag of Words"), and Latent Dirichlet Allocation to process and analyze the data from 59946 real OkCupid dating profiles originating from the San Francisco Bay Area. In particular I studied the relationship between the prevalence of ``Tweeners'' (users who are sorted into several groups) and the hyper parameter ``k'' (total number of groups). We conclude that, for this data set, ``k" has an optimal value of 7, which dramatically decreases the number of tweeners while still being an intepretable and manageable number of groups. The resulting analysis sorted users into groups composed of 1) intellectuals 2) educated white people 3) artistic people, 4) active people, 5) hipsters, 6) people who love life,  and 7) social people. Furthermore, we identified that tweeners tend to be part of a group which consists of "drug-loving atheists". 
+
+If you are interested, you can find a complete report of all the findings within the associated directory.
+
+**Skills**: Latent Dirichlet Allocation, Unsupervised models, NLP, Python, Scikit-learn, Cleaning and Preparation of Data. 
+
+**Link to Notebook**: 
+
+.. figure:: /images/ETH_prediction.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
