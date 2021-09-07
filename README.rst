@@ -43,7 +43,7 @@ If you are interested, you can find the complete academic manunscript and traine
 Ethereum Price Prediction Using LSTMs
 ################################################################################
 
-**Summary**: Ethereum is a blockchain-based network used for the creation and execution of "smart contracts". These special contracts can be used for a wide range of applications:  from confirming basic cryptocurrency transactions (lending, payments, ext...), the creation on "Non-Fungible Tokens", to the implementation of Decentrilized Finance networks. Unfortunately, this network is mostly known for the ample speculation related to its native cryptocurrency "Ether". This has led to wide swings in its price and high volatility. In this project we use Long short-term memory (LSTM) Recurrent Neural Networks (RNN) to try and predict the price of Ether as a function of previous prices and sentiment analysis based on crowd sentiment on "Reddit" (a social media platform). The use of LSTM's allows for the neural network to maintain a "memory" of relevant past events in an effort to increase prediction accuracy. 
+**Summary**: Ethereum is a blockchain-based network used for the creation and execution of "smart contracts". These special contracts can be used for a wide range of applications:  from confirming basic cryptocurrency transactions (lending, payments, ext...), the creation on "Non-Fungible Tokens", to the implementation of Decentrilized Finance networks. Unfortunately, this network is mostly known for the ample speculation related to its native cryptocurrency "Ether". This has led to wide swings in its price and high volatility. In this project I use Long short-term memory (LSTM) Recurrent Neural Networks (RNN) to try and predict the price of Ether as a function of previous prices and sentiment analysis based on crowd sentiment on "Reddit" (a social media platform). The use of LSTM's allows for the neural network to maintain a "memory" of relevant past events in an effort to increase prediction accuracy. 
 
 **Skills**: TensorFlow, Web scraping API calls, OOP, Reccurent Neural Networks, LSTM, Time-series prediction 
 
@@ -70,3 +70,21 @@ If you are interested, you can find a complete report of all the findings within
     :align: right
     :alt: alternate text
     :figclass: align-right
+    
+################################################################################
+Sentiment Analysis of Amazon Customer Reviews
+################################################################################
+
+**Summary**: The application of data science to sentiment analysis has become essential in the development of successful online products, be it in the areas of marketing (Google), entertainment (YouTube), retail (Amazon), and communication (Microsoft). Data science has allowed these sectors to monitor and influence con- sumer behaviour, effectively changing the way that companies interact with their consumers. Direct contact is no longer strictly necessary, it is sufficient to analyze comments, web searches, messages, or product reviews to obtain the consumers’ reaction to a new product or a change in services. In this project, I present an analysis of five different classifiers on a data set comprising of 3000 online re- views labeled as either ”positive” and ”negative”. I compare and contrast the classifiers’ ability to correctly predict a review label based on a ”bag of words” representation and by taking into account the length of said reviews. Furthermore I studied the effects of feature selection (number of words sampled) on classifier performance. I conclude that the Logistic Regression classifier works best when compared to its counterparts, as it requires the least amount of features while ob- taining the best performance in 4 out of 6 metrics. Finally, I conclude that review length is not a good predictor of sentiment.
+
+If you are interested, you can find a complete report of all the findings within the associated directory.
+
+**Skills**: Natural Language Proccesing, Pandas, Naive-Bayes, Decision Trees, Logistic Regression, Numpy, Data Proccesing
+
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_Amazon_reviews/Sentiment%20Analysis.ipynb
+
+.. figure:: /images/sentiment_analysis_graphs.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+    
