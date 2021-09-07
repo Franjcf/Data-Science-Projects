@@ -106,7 +106,7 @@ Unconstrained Optimization Using Gradient Descent
 
 **Skills**: Vector Calculus, Linear Algebra, Optimization, Gradient Decent, Python, Ridge and Linear Regression
 
-**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_Amazon_reviews/Sentiment%20Analysis.ipynb
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/gradient_decent_optimization_and_implementation/unconstrained_optimization_with_gradient_decent.ipynb
 
 .. figure:: /images/optimal_steps_gradient_decent.png
     :align: right
