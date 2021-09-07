@@ -1,8 +1,8 @@
 ================================================================================
-Data Science Projects
+Data Science and Machine Learning Projects
 ================================================================================
 
-This directory contains a representative sample of some of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contentents (and the linked subdirectory) for a quick explanation of each project and the relevant skills used. 
+This directory contains a representative sample of some of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contents (and the linked sub-directory) for a quick explanation of each project and the relevant skills used. 
 
 .. contents::
 
@@ -114,3 +114,21 @@ Unconstrained Optimization Using Gradient Descent
     :figclass: align-right
     
 ----------------------------------------------------------------------------
+
+################################################################################
+Face Recognition Through Principal Component Analysis
+################################################################################
+
+**Summary**: Face recognition is an ubiquitous feature in today's techonological landscape: it is used within our phones, photo applications, internet communications, and even self-manuvering machines. However, images are notoriously information-heavy, leading to slow algorithms and large data repositories. In this mini-project, I investigate the application of Singular Value Decomposition and Principal Component Analysis into the area of facial recognition. The results are fairly intuitive: the accuracy of a face recognition algorithm increases as we increase the number of principal components we use to represent a given image. However, this correlation is non-monotonic, leading to quick diminishing returns in accuracy as we get to use around principal 100 components. Therefore, it abundantly clear that we can use PCA to optimize our face-classification algorithms. 
+
+**Skills**: Image Recognition, Linear Algebra, Python, Principal Component Analysis, K-Nearest Neighbors.
+
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/face_recognition_PCA/Face_Recognition.ipynb
+
+.. figure:: /images/face_recognition.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+    
+----------------------------------------------------------------------------
+
