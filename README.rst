@@ -66,7 +66,7 @@ If you are interested, you can find a complete report of all the findings within
 
 **Link to Notebook**: 
 
-.. figure:: /images/ETH_prediction.png
+.. figure:: /images/LDA_histograms.PNG
     :align: right
     :alt: alternate text
     :figclass: align-right
