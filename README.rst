@@ -2,20 +2,14 @@
 Data Science and Machine Learning Projects
 ================================================================================
 
-This directory contains a representative sample of some of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contents (and the linked sub-directory) for a quick explanation of each project and the relevant skills used. 
+This directory contains a representative sample of many of the data science and machine learning projects that I have worked on throughout the years. These include both work-related projects as well as personal projects. Please refer to table of contents (and the linked sub-directory) for a quick explanation of each project and the relevant skills used. 
 
 .. contents::
 
+Note that the code presented here is formated as a jupyter notebook using Python 3.8, scikit-learn 0.24.2, and TensorFlow 2.4.1.
+If you want to run this code on your own please check that you are running the correct versions.
+
 This repository was created by Francisco J. Carrillo
-
-----------------------------------------------------------------------------
-
-################################################################################
-General Information
-################################################################################
-
-The code presented here is formated to be displayed as a jupyter notebook using Python 3.8, scikit-learn 0.24.2, and TensorFlow 2.4.1.
-If you want to run this code on your own please check that you are running the correct version.
 
 ----------------------------------------------------------------------------
 
