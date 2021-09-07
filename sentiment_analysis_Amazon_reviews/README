@@ -1,0 +1,7 @@
+READ ME
+
+The attached "DataAnalysisScript.py" script should be run within the "BestWords*" directory (and all the files within it). This directory contains the vocabulary and bag of words representations obtained from feature selection as explained in the report. 
+
+The bag of words representation of the testing data was obtained by modifying the prepossessing script (saved as preprocesingTest.py). However, there is no need to use it since I have already generated all the vocabulary files.
+
+The output of the script file includes an exploratory graph, several ROC graphs, performance reports, and performance graphs for each classifier.
