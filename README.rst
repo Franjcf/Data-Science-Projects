@@ -64,13 +64,9 @@ If you are interested, you can find a complete report of all the findings within
 
 **Skills**: Latent Dirichlet Allocation, Unsupervised models, NLP, Python, Scikit-learn, Cleaning and Preparation of Data. 
 
-**Link to Notebook**: 
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/OKCupid_LDA_analysis/OKCupid_LDA.ipynb
 
-<<<<<<< HEAD
-.. figure:: /images/ETH_prediction.png
-=======
 .. figure:: /images/LDA_histograms.PNG
->>>>>>> 948b9ddaaa613763d90114fae28ab67273b3747b
     :align: right
     :alt: alternate text
     :figclass: align-right
