@@ -89,7 +89,7 @@ Sentiment Analysis of Amazon Customer Reviews
 
 If you are interested, you can find a complete report of all the findings within the associated directory.
 
-**Skills**: Natural Language Proccesing, Pandas, Naive-Bayes, Decision Trees, Logistic Regression, Numpy, Data Proccesing
+**Skills**: Natural Language Processing, Pandas, Naive-Bayes, Decision Trees, Logistic Regression, Numpy, Data Processing
 
 **Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_Amazon_reviews/Sentiment%20Analysis.ipynb
 
@@ -167,7 +167,7 @@ Feature Analysis of Trending YouTube Videos Across the USA, Great Britain, Canad
 
 If you are interested, you can find a complete report of all the findings within the associated directory.
 
-**Skills**:  Data Proccesing, Pattern Recognition, Language Processing, Latent Dirichlet Allocation, Python, Pandas
+**Skills**:  Data Processing, Pattern Recognition, Language Processing, Latent Dirichlet Allocation, Python, Pandas
 
 **Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/YouTube_video_trending_analysis/trending_YouTube_videos_analysis.ipynb
 
