@@ -49,6 +49,11 @@ English Language Translation with Transformers (Neural Networks + Attention)
 
 **Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/language_translation_transformers/Transformer.ipynb
 
+.. figure:: /images/positional_encoding.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+
 ----------------------------------------------------------------------------
     
 ################################################################################
