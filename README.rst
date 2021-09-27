@@ -159,7 +159,7 @@ Face Recognition Through Principal Component Analysis
 Application of Kernel Methods to PCA, SVM and KNN for Image and Disease recognition 
 ################################################################################
 
-**TLDR**: 4th order inhomogeneous kernels and gaussian RBF kernels can help improve the labeleling accuracy of handwritten digits and the detection of human liver disorders. 
+**TLDR**: 4th order inhomogeneous kernels and gaussian RBF kernels can help improve the labelling accuracy of handwritten digits and the detection of human liver disorders. 
 
 **Description**: The use of kernels have revolutionized the way we analyze data. They allow us to effectively project raw data into previously-unavailable dimensional spaces in order to produce more-easily classifiable data. The best part is that they can be readily implemented within most Machine Learning algorithms and are not computationally prohibitive in most cases. In this project, I implement (from scratch) several kernels methods into Principal Component Analysis, Support Vector Machines, and K-Nearest Neighbors algorithms. These kernels include a 3rd order inhomogeneous kernel, 4th order inhomogeneous kernel, and gaussian RBF kernels. The ultimate goal is to improve the detection accuracy of said algorithms in the detection of handwritten digits and human liver disorders. 
 
