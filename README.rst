@@ -43,9 +43,9 @@ If you are interested, you can find the complete academic manuscript and trained
 English Language Translation with Transformers (Neural Networks + Attention)
 ################################################################################
 
-**TLDR**: I coded up a transformer to translate English to Portuguese.
+**TLDR**: I programmed a transformer to translate English to Portuguese.
 
-**Description**: In this project I succesufully implemented the transformer outlined in the landmark paper "Attention is All You Need" by Vaswani et. al., 2017 into TensorFlow for language translation from English to Portuguese. This time however, I made it possible to configure the transformer with differing amount of encoder and decoder layers, making it a more flexible configuration. 
+**Description**: In this project I implemented the transformer outlined in the landmark paper "Attention is All You Need" by Vaswani et. al., 2017 into TensorFlow for language translation from English to Portuguese. I programmed this particular model to show how the algorithm gradually learns and "understands" the languages in real time during training. I also made it possible to configure the transformer with differing amounts of encoder and decoder layers, making it a more flexible configuration. 
 
 **Skills**: TensorFlow, OPP, Speech Synthesis, Context Analysis, Deep Learning, Natural Language Processing, Sequence-to-Sequence Models
 
