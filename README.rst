@@ -17,7 +17,7 @@ This repository was created by Francisco J. Carrillo
 Prediction of Stochastic Clogging Processes
 ################################################################################
 
-**TLDR**:  In this project I used machine learning, computational fluid dynamics, and discrete element methods to predict stochastic clogging processes. The resulting Extremely Randomized Trees algorithm is able to predict clogging in unseen systems with a classification accuracy of 0.96.
+**TLDR**:  In this project, I used machine learning, computational fluid dynamics, and discrete element methods to predict stochastic clogging processes. The resulting Extremely Randomized Trees algorithm is able to predict clogging in unseen systems with a classification accuracy of 0.96.
 
 **Description**: The accumulation of discrete masses within constrained flow conduits is an common phenomenon within both natural and industrial settings: it describes the clogging of pipes, roads, oil reservoirs, rivers, and arteries. In this project I used Computational Fluid Mechanics and Discrete Element Models to run over 2,000 different clogging simulations in randomly-generated porous media in order to train and evaluate the clogging prediction performance of several Machine Learning algorithms. The enclosed jupyter notebook contains the python scripts that I wrote to train and evaluate said algorithms. The resulting best-performing classifier (an Extremely Randomized Trees algorithm) is able to predict clogging a-priori with an accuracy of 0.96 and 0.91 in numerical and experimental systems, respectively. Similarly, the best performing regressor (also a decision tree-based algorithm) is able to achieve an R^2 value of 0.93 when predicting the degree of clogging in said systems. I believe this standardized computational tool has the potential to help evaluate the design process of engineered and natural porous media. 
 
@@ -45,7 +45,7 @@ English Language Translation with Transformers (Neural Networks + Attention)
 
 **TLDR**: I programmed a transformer to translate English to Portuguese.
 
-**Description**: In this project I implemented the transformer outlined in the landmark paper "Attention is All You Need" by Vaswani et. al., 2017 into TensorFlow for language translation from English to Portuguese. I programmed this particular model to show how the algorithm gradually learns and "understands" the languages in real time during training. I also made it possible to configure the transformer with differing amounts of encoder and decoder layers, making it a more flexible configuration. 
+**Description**: In this project, I implemented the transformer outlined in the landmark paper "Attention is All You Need" by Vaswani et. al., 2017 into TensorFlow for language translation from English to Portuguese. I programmed this particular model to show how the algorithm gradually learns and "understands" the languages in real time during training. I also made it possible to configure the transformer with differing amounts of encoder and decoder layers, making it a more flexible configuration. 
 
 **Skills**: TensorFlow, OPP, Speech Synthesis, Context Analysis, Deep Learning, Natural Language Processing, Sequence-to-Sequence Models
 
