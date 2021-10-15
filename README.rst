@@ -23,7 +23,7 @@ Prediction of Stochastic Clogging Processes
 
 If you are interested, you can find the complete academic manuscript and trained joblib models within the associated directory.
 
-**Skills**: Python, C++, Scikit-learn, Pandas, Numpy, Neural Networks, Decision Tree Clasifiers, Classification, Regression. 
+**Skills**: Python, C++, Scikit-learn, XGBoost, Pandas, Numpy, Neural Networks, Decision Tree Clasifiers, Classification, Regression. 
 
 **Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb
 
