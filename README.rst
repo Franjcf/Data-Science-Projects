@@ -77,6 +77,23 @@ Ethereum Price Prediction Using LSTMs
     
 ----------------------------------------------------------------------------
 
+################################################################################
+Fine-Tuning BERT for Sentiment Analysis
+################################################################################
+
+**TLDR**: I fine-tuned the BERT transformer architecture to be able to identify positive and negative sentiment in online product reviews. The result is a classifier that can accurately infer the intent of each reviewer. 
+
+**Skills**: TensorFlow, NLP, Transformers, Deep Learning, Sentiment Analysis, Context Capturing
+
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/Ethereum_price_prediction/ETH_prediction.ipynb
+
+.. figure:: /images/bert_git.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+    
+----------------------------------------------------------------------------
+
 ##################################################
 Latent Feature Analysis of "OkCupid" User Profiles
 ##################################################
