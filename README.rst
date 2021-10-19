@@ -85,7 +85,7 @@ Fine-Tuning BERT for Sentiment Analysis
 
 **Skills**: TensorFlow, NLP, Transformers, Deep Learning, Sentiment Analysis, Context Capturing
 
-**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/Ethereum_price_prediction/ETH_prediction.ipynb
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_BERT/sentiment_analysis_BERT.ipynb
 
 .. figure:: /images/bert_git.png
     :align: right
