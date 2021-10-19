@@ -77,6 +77,25 @@ Ethereum Price Prediction Using LSTMs
     
 ----------------------------------------------------------------------------
 
+################################################################################
+Fine-Tuning BERT for Sentiment Analysis
+################################################################################
+
+**TLDR**: I fine-tuned the BERT transformer architecture to be able to identify positive and negative sentiment in online product reviews. The result is a classifier that can accurately infer the intent of each reviewer. 
+
+**Description**: BERT (Bidirectional Encoder Representations from Transformers) is a novel neural network architecture developed by Google to capture the inter- and intra-sentence context within a text corpus. In this project, I built a classifier on top of said architecture in order to fine-tune the encoder weights within BERT and infer the encoded sentiment within online product reviews. 
+
+**Skills**: TensorFlow, NLP, Transformers, Deep Learning, Sentiment Analysis, Context Capturing
+
+**Link to Notebook**: https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_BERT/sentiment_analysis_BERT.ipynb
+
+.. figure:: /images/bert_git.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+    
+----------------------------------------------------------------------------
+
 ##################################################
 Latent Feature Analysis of "OkCupid" User Profiles
 ##################################################
